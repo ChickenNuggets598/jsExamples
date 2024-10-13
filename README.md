@@ -3,7 +3,7 @@
 Here is where I explore JS concepts.
 
 
-Concepts:
+## Concepts:
 - arrays
 - Functions
 - JSON objects
@@ -11,7 +11,7 @@ Concepts:
 - loops
 
 
-Sample Projects
+## Sample Projects
 * todo list
 * contacts list 
 * econ calculator
